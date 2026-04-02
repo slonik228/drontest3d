@@ -37,7 +37,7 @@ NODES=(
 )
 
 # ЗАГРУЗКА ФАЙЛОВ НУЖНЫХ
-WRAPER=("https://raw.githubusercontent.com/slonik228/nospacelesft/refs/heads/main/animator.json")
+WRAPER=("https://raw.githubusercontent.com/slonik228/nospacelesft/refs/heads/main/animator_v2_1_0.json")
 CLIP_MODELS=("https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/klip_vision.safetensors")
 CLIPS=("https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors")
 TEXT_ENCODERS=("https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/text_enc.safetensors")
