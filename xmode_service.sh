@@ -32,8 +32,9 @@ NODES=(
     "https://github.com/plugcrypt/CRT-Nodes"
     "https://github.com/EllangoK/ComfyUI-post-processing-nodes"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/teskor-hub/comfyui-teskors-utils.git"
+    "https://github.com/Azornes/Comfyui-Resolution-Master"
 )
-
 # ЗАГРУЗКА ФАЙЛОВ НУЖНЫХ
 CLIP_MODELS=(
     "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors"
